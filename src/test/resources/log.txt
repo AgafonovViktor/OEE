@@ -1,0 +1,424 @@
+M 2021-10-26 19:21:07|P|YSoft Limit
+M 2021-10-26 19:22:58start process:\硬盘\GM80-1.TAP
+M 2021-10-26 19:31:05File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 19:36:53|P|YSoft Limit
+M 2021-10-26 19:38:38start process:\硬盘\GM80-1.TAP
+M 2021-10-26 19:46:46File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 19:47:46|P|YSoft Limit
+M 2021-10-26 19:49:19start process:\硬盘\GM80-1.TAP
+M 2021-10-26 19:57:28File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 19:58:17|P|YSoft Limit
+M 2021-10-26 19:59:36start process:\硬盘\GM80-1.TAP
+M 2021-10-26 20:07:44File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 20:08:59|P|YSoft Limit
+M 2021-10-26 20:08:59|P|YSoft Limit
+M 2021-10-26 20:10:10start process:\硬盘\GM80-1.TAP
+M 2021-10-26 20:18:19File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 20:22:50|P|YSoft Limit
+M 2021-10-26 20:24:08start process:\硬盘\GM80-1.TAP
+M 2021-10-26 20:32:16File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 20:33:25|P|YSoft Limit
+M 2021-10-26 20:34:33start process:\硬盘\GM80-1.TAP
+M 2021-10-26 20:42:43File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 21:47:58|P|YSoft Limit
+M 2021-10-26 22:00:15start process:\硬盘\GM80-1.TAP
+M 2021-10-26 22:08:22File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 22:13:19|P|YSoft Limit
+M 2021-10-26 22:14:34start process:\硬盘\GM80-1.TAP
+M 2021-10-26 22:22:42File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 22:23:55|P|YSoft Limit
+M 2021-10-26 22:25:10start process:\硬盘\GM80-1.TAP
+M 2021-10-26 22:33:19File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 22:36:12|P|YSoft Limit
+M 2021-10-26 22:37:23start process:\硬盘\GM80-1.TAP
+M 2021-10-26 22:45:32File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 22:49:09|P|YSoft Limit
+M 2021-10-26 22:50:23start process:\硬盘\GM80-1.TAP
+M 2021-10-26 22:58:32File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 23:00:05|P|YSoft Limit
+M 2021-10-26 23:01:18start process:\硬盘\GM80-1.TAP
+M 2021-10-26 23:09:27File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 23:10:36|P|YSoft Limit
+M 2021-10-26 23:11:48start process:\硬盘\GM80-1.TAP
+M 2021-10-26 23:20:48File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-26 23:58:29start process:\硬盘\GM80-1.TAP
+M 2021-10-27 00:10:30File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 00:10:40|P|YSoft Limit
+M 2021-10-27 00:11:44start process:\硬盘\GM80-1.TAP
+M 2021-10-27 00:23:42File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 00:23:53|P|YSoft Limit
+M 2021-10-27 00:24:41start process:\硬盘\GM80-1.TAP
+M 2021-10-27 00:36:42File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 00:36:52|P|YSoft Limit
+M 2021-10-27 00:37:36start process:\硬盘\GM80-1.TAP
+M 2021-10-27 00:49:37File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 00:50:33|P|YSoft Limit
+M 2021-10-27 00:51:19start process:\硬盘\GM80-1.TAP
+M 2021-10-27 01:03:20File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 01:06:21|P|YSoft Limit
+M 2021-10-27 01:07:10start process:\硬盘\GM80-1.TAP
+M 2021-10-27 01:19:11File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 01:19:20|P|YSoft Limit
+M 2021-10-27 01:20:07start process:\硬盘\GM80-1.TAP
+M 2021-10-27 01:32:08File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 01:32:22|P|YSoft Limit
+M 2021-10-27 01:32:22|P|YSoft Limit
+M 2021-10-27 01:33:09start process:\硬盘\GM80-1.TAP
+M 2021-10-27 01:45:08File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 01:45:59start process:\硬盘\GM80-1.TAP
+M 2021-10-27 01:57:56File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 01:58:06|P|YSoft Limit
+M 2021-10-27 01:58:07|P|YSoft Limit
+M 2021-10-27 01:58:07|P|YSoft Limit
+M 2021-10-27 01:58:56start process:\硬盘\GM80-1.TAP
+M 2021-10-27 02:10:57File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 02:11:06|P|YSoft Limit
+M 2021-10-27 02:11:50start process:\硬盘\GM80-1.TAP
+M 2021-10-27 02:23:52File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 02:24:59start process:\硬盘\GM80-1.TAP
+M 2021-10-27 02:37:01File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 02:37:11|P|YSoft Limit
+M 2021-10-27 02:38:04start process:\硬盘\GM80-1.TAP
+M 2021-10-27 02:50:06File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 02:50:24|P|YSoft Limit
+M 2021-10-27 02:51:20start process:\硬盘\GM80-1.TAP
+M 2021-10-27 03:03:22File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 03:04:31|P|YSoft Limit
+M 2021-10-27 03:05:15start process:\硬盘\GM80-1.TAP
+M 2021-10-27 03:17:17File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 03:17:28|P|YSoft Limit
+M 2021-10-27 03:18:13start process:\硬盘\GM80-1.TAP
+M 2021-10-27 03:30:15File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 03:30:25|P|YSoft Limit
+M 2021-10-27 03:31:16start process:\硬盘\GM80-1.TAP
+M 2021-10-27 03:43:17File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 03:43:48|P|YSoft Limit
+M 2021-10-27 03:44:36start process:\硬盘\GM80-1.TAP
+M 2021-10-27 03:56:38File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 04:11:09start process:\硬盘\GM80-1.TAP
+M 2021-10-27 04:23:08File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 04:26:35|P|YSoft Limit
+M 2021-10-27 04:27:36start process:\硬盘\GM80-1.TAP
+M 2021-10-27 04:45:56File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 04:46:04|P|YSoft Limit
+M 2021-10-27 04:46:04|P|YSoft Limit
+M 2021-10-27 04:46:46start process:\硬盘\GM80-1.TAP
+M 2021-10-27 04:58:48File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 04:59:07|P|YSoft Limit
+M 2021-10-27 04:59:07|P|YSoft Limit
+M 2021-10-27 04:59:07|P|YSoft Limit
+M 2021-10-27 04:59:53start process:\硬盘\GM80-1.TAP
+M 2021-10-27 05:11:54File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 05:12:09|P|ZSoft Limit
+M 2021-10-27 05:12:14|P|YSoft Limit
+M 2021-10-27 05:12:14|P|YSoft Limit
+M 2021-10-27 05:13:00start process:\硬盘\GM80-1.TAP
+M 2021-10-27 05:25:05File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 05:28:02|P|YSoft Limit
+M 2021-10-27 05:28:59start process:\硬盘\GM80-1.TAP
+M 2021-10-27 05:41:00File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 05:41:21|P|YSoft Limit
+M 2021-10-27 05:42:09start process:\硬盘\GM80-1.TAP
+M 2021-10-27 05:54:10File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 05:57:37|P|YSoft Limit
+M 2021-10-27 05:58:35start process:\硬盘\GM80-1.TAP
+M 2021-10-27 06:10:36File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 06:17:41|P|YSoft Limit
+M 2021-10-27 06:18:37start process:\硬盘\GM80-1.TAP
+M 2021-10-27 06:30:39File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 06:30:51|P|YSoft Limit
+M 2021-10-27 06:32:21start process:\硬盘\GM80-1.TAP
+M 2021-10-27 06:44:23File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 06:46:01|P|YSoft Limit
+M 2021-10-27 06:46:01|P|YSoft Limit
+M 2021-10-27 06:47:28start process:\硬盘\GM80-1.TAP
+M 2021-10-27 06:57:24File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 06:57:36|P|YSoft Limit
+M 2021-10-27 06:58:24start process:\硬盘\GM80-1.TAP
+M 2021-10-27 07:10:26File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 07:13:33|P|YSoft Limit
+M 2021-10-27 07:14:16start process:\硬盘\GM80-1.TAP
+M 2021-10-27 07:26:17File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 07:26:33|P|YSoft Limit
+M 2021-10-27 07:27:25start process:\硬盘\GM80-1.TAP
+M 2021-10-27 07:39:20File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 07:39:28|P|YSoft Limit
+M 2021-10-27 07:40:09start process:\硬盘\GM80-1.TAP
+M 2021-10-27 07:52:11File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 07:52:25|P|YSoft Limit
+M 2021-10-27 07:53:09start process:\硬盘\GM80-1.TAP
+M 2021-10-27 08:05:10File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 08:12:06|P|YSoft Limit
+M 2021-10-27 08:12:58start process:\硬盘\GM80-1.TAP
+M 2021-10-27 08:27:34File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 08:34:15|P|YSoft Limit
+M 2021-10-27 08:35:01start process:\硬盘\GM80-1.TAP
+M 2021-10-27 08:47:02File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 08:47:42|P|YSoft Limit
+M 2021-10-27 08:48:14start process:\硬盘\GM80-1.TAP
+M 2021-10-27 08:58:34File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 08:59:26|P|YSoft Limit
+M 2021-10-27 09:00:25start process:\硬盘\GM80-1.TAP
+M 2021-10-27 09:10:38File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 09:10:45|P|YSoft Limit
+M 2021-10-27 09:10:45|P|YSoft Limit
+M 2021-10-27 09:11:27start process:\硬盘\GM80-1.TAP
+M 2021-10-27 09:22:32File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 09:25:48|P|YSoft Limit
+M 2021-10-27 09:25:48|P|YSoft Limit
+M 2021-10-27 09:25:48|P|YSoft Limit
+M 2021-10-27 09:27:00start process:\硬盘\GM80-1.TAP
+M 2021-10-27 09:39:02File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 09:41:37start process:\硬盘\GM80-1.TAP
+M 2021-10-27 09:53:33File '\硬盘\GM80-1.TAP' is forced to stop
+M 2021-10-27 09:53:55|P|YSoft Limit
+M 2021-10-27 09:53:56|P|YSoft Limit
+M 2021-10-27 09:53:56|P|YSoft Limit
+M 2021-10-27 10:04:21start process:\硬盘\GM80-1.TAP
+M 2021-10-27 10:17:20File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 10:18:20|P|YSoft Limit
+M 2021-10-27 10:19:07start process:\硬盘\GM80-1.TAP
+M 2021-10-27 10:36:18File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 10:37:30|P|YSoft Limit
+M 2021-10-27 10:38:28start process:\硬盘\GM80-1.TAP
+M 2021-10-27 10:52:50File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 10:53:56|P|YSoft Limit
+M 2021-10-27 10:55:15start process:\硬盘\GM80-1.TAP
+M 2021-10-27 11:07:18File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 11:39:51start process:\硬盘\GM80-1.TAP
+M 2021-10-27 11:51:50File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 11:52:07|P|YSoft Limit
+M 2021-10-27 11:53:10start process:\硬盘\GM80-1.TAP
+M 2021-10-27 12:05:08File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 12:06:26start process:\硬盘\GM80-1.TAP
+M 2021-10-27 12:18:24File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 12:18:41|P|YSoft Limit
+M 2021-10-27 12:19:36start process:\硬盘\GM80-1.TAP
+M 2021-10-27 12:31:34File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 12:33:01start process:\硬盘\GM80-1.TAP
+M 2021-10-27 12:44:59File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 12:46:19start process:\硬盘\GM80-1.TAP
+M 2021-10-27 12:58:17File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 12:58:29|P|YSoft Limit
+M 2021-10-27 12:59:50start process:\硬盘\GM80-1.TAP
+M 2021-10-27 13:10:40File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 13:10:51|P|YSoft Limit
+M 2021-10-27 13:11:52start process:\硬盘\GM80-1.TAP
+M 2021-10-27 13:22:47File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 13:22:58|P|YSoft Limit
+M 2021-10-27 13:24:11start process:\硬盘\GM80-1.TAP
+M 2021-10-27 13:36:09File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 13:36:20|P|YSoft Limit
+M 2021-10-27 13:37:37start process:\硬盘\GM80-1.TAP
+M 2021-10-27 13:49:35File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 13:49:45|P|YSoft Limit
+M 2021-10-27 13:56:55start process:\硬盘\GM80-1.TAP
+M 2021-10-27 14:08:53File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 14:10:12start process:\硬盘\GM80-1.TAP
+M 2021-10-27 14:22:09File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 14:23:56start process:\硬盘\GM80-1.TAP
+M 2021-10-27 14:35:53File '\硬盘\GM80-1.TAP' is completed successfully
+M 2021-10-27 14:37:31start process:\硬盘\GM80-4.TAP
+M 2021-10-27 14:49:18File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 14:50:18|P|YSoft Limit
+M 2021-10-27 14:51:11start process:\硬盘\GM80-4.TAP
+M 2021-10-27 15:02:45File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 15:03:06|P|YSoft Limit
+M 2021-10-27 15:04:21start process:\硬盘\GM80-4.TAP
+M 2021-10-27 15:14:29File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 15:14:43|P|YSoft Limit
+M 2021-10-27 15:15:31start process:\硬盘\GM80-4.TAP
+M 2021-10-27 15:25:38File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 15:26:42start process:\硬盘\GM80-4.TAP
+M 2021-10-27 15:36:49File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 15:37:08|P|YSoft Limit
+M 2021-10-27 15:38:06start process:\硬盘\GM80-4.TAP
+M 2021-10-27 15:48:14File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 15:48:25|P|YSoft Limit
+M 2021-10-27 15:49:14start process:\硬盘\GM80-4.TAP
+M 2021-10-27 15:59:21File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 15:59:39|P|YSoft Limit
+M 2021-10-27 16:00:31start process:\硬盘\GM80-4.TAP
+M 2021-10-27 16:10:38File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 16:11:21|P|YSoft Limit
+M 2021-10-27 16:12:06start process:\硬盘\GM80-4.TAP
+M 2021-10-27 16:22:13File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 16:29:10start process:\硬盘\GM80-4.TAP
+M 2021-10-27 16:39:18File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 16:39:39|P|YSoft Limit
+M 2021-10-27 16:40:28start process:\硬盘\GM80-4.TAP
+M 2021-10-27 16:50:35File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 16:50:50|P|YSoft Limit
+M 2021-10-27 16:51:40start process:\硬盘\GM80-4.TAP
+M 2021-10-27 17:01:47File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 17:02:45start process:\硬盘\GM80-4.TAP
+M 2021-10-27 17:12:51File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 17:13:18|P|YSoft Limit
+M 2021-10-27 17:14:12start process:\硬盘\GM80-4.TAP
+M 2021-10-27 17:24:20File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 17:25:25start process:\硬盘\GM80-4.TAP
+M 2021-10-27 17:35:31File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 17:36:46start process:\硬盘\GM80-4.TAP
+M 2021-10-27 17:46:54File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 17:47:56start process:\硬盘\GM80-4.TAP
+M 2021-10-27 17:58:03File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 17:59:01start process:\硬盘\GM80-4.TAP
+M 2021-10-27 18:09:07File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 18:10:07start process:\硬盘\GM80-4.TAP
+M 2021-10-27 18:20:14File '\硬盘\GM80-4.TAP' is completed successfully
+M 2021-10-27 18:21:54|P|YSoft Limit
+M 2021-10-27 18:22:33start process:\硬盘\GH142-2.TAP
+M 2021-10-27 18:35:10File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 18:36:52start process:\硬盘\GH142-2.TAP
+M 2021-10-27 18:49:28File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 18:50:03|P|YSoft Limit
+M 2021-10-27 18:50:54start process:\硬盘\GH142-2.TAP
+M 2021-10-27 19:03:30File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 19:03:46|P|YSoft Limit
+M 2021-10-27 19:04:45start process:\硬盘\GH142-2.TAP
+M 2021-10-27 19:17:22File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 19:18:23start process:\硬盘\GH142-2.TAP
+M 2021-10-27 19:30:59File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 19:32:15start process:\硬盘\GH142-2.TAP
+M 2021-10-27 19:44:51File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 19:45:24|P|YSoft Limit
+M 2021-10-27 19:46:16start process:\硬盘\GH142-2.TAP
+M 2021-10-27 19:58:52File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 20:00:15start process:\硬盘\GH142-2.TAP
+M 2021-10-27 20:12:51File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 20:14:26start process:\硬盘\GH142-2.TAP
+M 2021-10-27 20:27:02File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 20:28:32start process:\硬盘\GH142-2.TAP
+M 2021-10-27 20:41:08File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 20:42:16start process:\硬盘\GH142-2.TAP
+M 2021-10-27 20:54:51File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 20:55:29|P|YSoft Limit
+M 2021-10-27 20:56:18start process:\硬盘\GH142-2.TAP
+M 2021-10-27 21:08:55File '\硬盘\GH142-2.TAP' is completed successfully
+M 2021-10-27 21:09:22|P|YSoft Limit
+M 2021-10-27 21:40:54start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-27 21:44:20File '\硬盘\GH142-4+GM81(d10).tap' is forced to stop
+M 2021-10-27 21:46:23start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-27 22:01:02File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-27 22:02:27|P|YSoft Limit
+M 2021-10-27 22:05:58start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-27 22:20:39File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-27 22:20:53|P|YSoft Limit
+M 2021-10-27 22:22:02start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-27 22:50:44File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-27 22:54:15start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-27 23:11:31File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-27 23:13:30start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-27 23:40:59File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 00:06:15start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 00:23:32File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 00:25:04|P|YSoft Limit
+M 2021-10-28 00:26:25start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 00:40:59File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 00:42:56start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 00:55:48File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 00:59:10start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 01:13:52File '\硬盘\GH142-4+GM81(d10).tap' is forced to stop
+M 2021-10-28 01:15:14start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 01:29:56File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 01:31:21start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 01:45:54File '\硬盘\GH142-4+GM81(d10).tap' is forced to stop
+M 2021-10-28 01:46:51start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 01:59:51File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 02:00:17|P|YSoft Limit
+M 2021-10-28 02:00:18|P|YSoft Limit
+M 2021-10-28 02:00:18|P|YSoft Limit
+M 2021-10-28 02:03:22start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 02:17:08File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 02:25:42start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 02:39:24File '\硬盘\GH142-4+GM81(d10).tap' is forced to stop
+M 2021-10-28 02:42:50start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 02:57:18File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 02:59:03start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 03:13:30File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 03:14:05|P|YSoft Limit
+M 2021-10-28 03:14:55start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 03:27:45File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 03:30:14start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 03:43:05File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 03:43:25|P|YSoft Limit
+M 2021-10-28 03:47:45start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 04:00:36File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 04:02:07start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 04:14:58File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 04:16:01start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 04:28:52File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 04:30:00start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 04:42:51File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 04:44:40|P|YSoft Limit
+M 2021-10-28 04:44:40|P|YSoft Limit
+M 2021-10-28 04:45:20start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 04:58:11File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 04:59:20start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 05:12:09File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 05:13:09start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 05:26:01File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 05:29:19start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 05:42:11File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 05:43:14start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 05:56:05File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 05:56:22|P|YSoft Limit
+M 2021-10-28 05:57:08start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 06:09:58File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 06:10:21|P|YSoft Limit
+M 2021-10-28 06:11:10start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 06:24:01File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 06:25:32start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 06:53:06File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 06:56:53|P|YSoft Limit
+M 2021-10-28 06:57:44start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 07:12:25File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 07:13:46start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 07:31:02File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 07:32:40start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 07:49:57File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 07:51:08start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 08:12:14File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 08:14:47start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 08:35:55File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 08:38:14start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 09:01:07File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 09:01:31|P|YSoft Limit
+M 2021-10-28 09:02:30start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 09:30:04File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 09:32:22start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 09:57:35File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 09:58:21|P|YSoft Limit
+M 2021-10-28 09:59:18start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 10:20:25File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 10:21:42start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 10:46:20File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 10:46:31|P|YSoft Limit
+M 2021-10-28 10:57:30start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 11:06:54File '\硬盘\GH142-4+GM81(d10).tap' is forced to stop
+M 2021-10-28 11:08:02start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 11:20:58File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 11:21:18|P|YSoft Limit
+M 2021-10-28 11:25:48start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 11:53:21File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 12:15:30|P|YSoft Limit
+M 2021-10-28 12:28:56start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 12:50:06File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 12:55:25|P|YSoft Limit
+M 2021-10-28 13:22:27start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 13:43:36File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 13:45:36|P|YSoft Limit
+M 2021-10-28 13:55:26start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 14:16:34File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 14:18:56|P|YSoft Limit
+M 2021-10-28 14:40:28start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 15:01:28File '\硬盘\GH142-4+GM81(d10).tap' is forced to stop
+M 2021-10-28 15:01:36|P|YSoft Limit
+M 2021-10-28 15:05:21start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 15:26:30File '\硬盘\GH142-4+GM81(d10).tap' is completed successfully
+M 2021-10-28 15:27:06|P|YSoft Limit
+M 2021-10-28 15:27:06|P|YSoft Limit
+M 2021-10-28 15:32:36start process:\硬盘\GH142-4+GM81(d10).tap
+M 2021-10-28 15:53:39File '\硬盘\GH142-4+GM81(d10).tap' is forced to stop
+M 2021-10-28 15:53:47|P|YSoft Limit
+M 2021-10-28 15:53:47|P|YSoft Limit
